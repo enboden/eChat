@@ -1,6 +1,6 @@
 <html>
   <body>
-    <script type='text/javascript'>
+<script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
@@ -19,5 +19,6 @@
 	};
 </script>
 <script type='text/javascript' src='https://parker--deva5.sandbox.my.site.com/ESWWebChatTest1734469194430/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
   </body>
 </html>
